@@ -35,7 +35,7 @@
                                 <label class="custom-control-label" for="customCheck">Ingatkan saya</label>
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-outline-secondary btn-block" href="../admin/auth/home_admin.php">Masokk</button>
+                        <button type="submit" class="btn btn-outline-secondary btn-block" a href="./auth_admin/home_admin.php">Masokk</button>
                     </form>
                     <!-- Form End -->
                 </div>
