@@ -157,9 +157,6 @@
                     <a class="nav-link" href="../auth/church.php">Churches</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../auth/warta.php">Warta Jemaat</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="../auth/services.php">Services</a>
                 </li>
                 <li class="nav-item">
