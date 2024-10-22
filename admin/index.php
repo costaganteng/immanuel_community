@@ -42,11 +42,8 @@
                                 <label class="custom-control-label" for="customCheck">Ingatkan saya</label>
                             </div>
                         </div>
-<<<<<<< HEAD
                         <button type="submit" class="btn btn-outline-secondary btn-block" a href="./auth_admin/home_admin.php">Masokk</button>
-=======
                         <button type="submit" class="btn btn-outline-secondary btn-block">Masokk</button>
->>>>>>> c2d8952e0a3bc15decc328f0f17eb0637adf7264
                     </form>
                     <!-- Form End -->
                 </div>
@@ -60,9 +57,6 @@
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
-<<<<<<< HEAD
 </body>
-=======
->>>>>>> c2d8952e0a3bc15decc328f0f17eb0637adf7264
 
 </html>
