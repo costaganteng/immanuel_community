@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Login</title>
-    <!-- Bootstrap CSS -->
+<link rel="shortcut icon" href="../assets/img/logo.png" type="image/x-icon">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -19,7 +19,6 @@
                     <div class="text-center">
                         <h1 class="h4 text-gray-900 mb-4">Masokkkkk</h1>
                     </div>
-                    <!-- Form Start -->
                     <form action="process_login.php" method="POST">
                         <div class="form-group">
                             <input name="text" type="text" class="form-control form-control-user"
