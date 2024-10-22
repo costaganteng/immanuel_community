@@ -5,7 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Login</title>
+<<<<<<< HEAD
     <link rel="shortcut icon" href="../assets/img/logo.png" type="image/x-icon">
+=======
+<link rel="shortcut icon" href="../assets/img/logo.png" type="image/x-icon">
+>>>>>>> c2d8952e0a3bc15decc328f0f17eb0637adf7264
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -19,7 +23,10 @@
                     <div class="text-center">
                         <h1 class="h4 text-gray-900 mb-4">Masokkkkk</h1>
                     </div>
+<<<<<<< HEAD
                     <!-- Form Start -->
+=======
+>>>>>>> c2d8952e0a3bc15decc328f0f17eb0637adf7264
                     <form action="process_login.php" method="POST">
                         <div class="form-group">
                             <input name="text" type="text" class="form-control form-control-user"
@@ -35,7 +42,11 @@
                                 <label class="custom-control-label" for="customCheck">Ingatkan saya</label>
                             </div>
                         </div>
+<<<<<<< HEAD
                         <button type="submit" class="btn btn-outline-secondary btn-block" a href="./auth_admin/home_admin.php">Masokk</button>
+=======
+                        <button type="submit" class="btn btn-outline-secondary btn-block">Masokk</button>
+>>>>>>> c2d8952e0a3bc15decc328f0f17eb0637adf7264
                     </form>
                     <!-- Form End -->
                 </div>
@@ -49,6 +60,9 @@
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
+<<<<<<< HEAD
 </body>
+=======
+>>>>>>> c2d8952e0a3bc15decc328f0f17eb0637adf7264
 
 </html>
